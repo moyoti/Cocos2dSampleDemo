@@ -1,0 +1,5 @@
+﻿  HelloWorldScene.cpp
+g:\cocosproject\mycppgame\classes\helloworldscene.cpp(82): warning C4305: “参数”: 从“double”到“float”截断
+  MyCppGame.vcxproj -> G:\CocosProject\MyCppGame\proj.win32\Debug.win32\MyCppGame.exe
+  Performing Custom Build Step
+  复制了 0 个文件
